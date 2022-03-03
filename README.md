@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sharon410
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,Java
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science and EDA projects
-- 📫 How to reach me on my email
+- 📫 Reach me on my email
 
 <!---
 sharon410/sharon410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
