@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharon410
-- 👀 I’m interested in Python,Java
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and EDA projects
+- 👀 I’m interested in Python, Java
+- 🌱 I’m passionate about learning Data Science and implementing it for optimisation.
+- 💞️ I’m always open to collaborate on projects which create value for people.
 - 📫 Reach me on my email
 
 <!---
